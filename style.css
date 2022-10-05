@@ -1,0 +1,41 @@
+body {
+    background: antiquewhite;
+}
+
+h1 {
+    background: burlywood;
+    color: rgba(7, 121, 85, 0.708);
+    font-family: 'Times New Roman', Times, serifs;
+    margin: 25px;
+    border-style: dashed;
+    border-width: 11px;
+    border-color: brown;
+}
+
+img {
+    border-style: groove;
+    border-color: cadetblue;
+    border-width: 10px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: maroon;
+}
+
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: maroon;
+}
+
+fieldset {
+    background-color: cornsilk;
+    margin: 10px 20px 10px 20px;
+    border-style: dashed;
+    border-color: lightslategray;
+}
+
+legend {
+    color: rgb(0, 51, 22);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
